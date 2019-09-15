@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>angularJs入门demo-8  内置服务$http</title>
+    <script src="angular.min.js"></script>
+    <script>
+        // 建立模块			  模块名称, []:引用其他模块
+        var app=angular.module("myApp",[]);
+        // 创建控制器	控制器名称,		$scope: 控制层与视图层之间交换数据的桥梁(参数而已)
+        app.controller("myController",function($scope,$http){       // $http: 依赖注入
+
+            $scope.findList=function(){             // 定义一个findList方法
+             $http.get("data.json").success(       // 请求成功后调用的方法.    $http.get("data.json"): 请求"data.json"的地址.
+                function(response){
+                    $scope.list=response;               // 把请求来的地址作为response变量赋予list.
+                }
+             );
+            }
+        });
+
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="myController" ng-init="findList()">
+
+<table>
+    <tr>
+        <td>姓名</td>
+        <td>数学</td>
+        <td>语文</td>
+    </tr>	<!-- entity: 变量名 -->
+    <tr ng-repeat="entity in list">
+        <td>{{entity.name}}</td>
+        <td>{{entity.shuxue}}</td>
+        <td>{{entity.yuwen}}</td>
+    </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\mapreduce\WordCountMapper.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\partition\PartitionMapper.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\partition\PartitionerReducer.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\mapreduce\JobMain.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\mapreduce\WordCountReducer.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\partition\MyPartitioner.java
+D:\develop\idea_workspace\day04_hdfs_api\day05_mapreduce\src\main\java\cn\itcast\partition\JobMain.java

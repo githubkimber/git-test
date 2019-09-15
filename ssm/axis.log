@@ -1,0 +1,10 @@
+2019-05-30 22:55:32,570 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Thu May 30 22:55:32 CST 2019]; root of context hierarchy
+2019-05-30 22:55:32,637 67     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-05-30 23:02:32,329 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6b2fad11: startup date [Thu May 30 23:02:32 CST 2019]; root of context hierarchy
+2019-05-30 23:02:32,383 54     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-05-31 11:30:21,701 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Fri May 31 11:30:21 CST 2019]; root of context hierarchy
+2019-05-31 11:30:21,879 178    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-05-31 11:35:19,135 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Fri May 31 11:35:19 CST 2019]; root of context hierarchy
+2019-05-31 11:35:19,185 50     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-05-31 11:35:26,179 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Fri May 31 11:35:26 CST 2019]; root of context hierarchy
+2019-05-31 11:35:26,219 40     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]

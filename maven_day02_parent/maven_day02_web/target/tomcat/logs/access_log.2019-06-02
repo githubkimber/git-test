@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:25:33 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:25:40 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:26:33 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:27:17 +0800] "GET /springmvc_day01_01_start/param.jsp HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:28:13 +0800] "GET /springmvc_day01_01_start/param.jsp HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:28:31 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:29:26 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-8 1387
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:29:27 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:29:37 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-10 11
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:35:31 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Jun/2019:16:35:42 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-2 453

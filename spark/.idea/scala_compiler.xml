@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\idea_workspace\spark\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="taxi">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\idea_workspace\taxi\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="streaming" />
+  </component>
+</project>

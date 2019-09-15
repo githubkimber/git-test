@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.itheima.dao.ItemsDao">   <!-- namespace: mapper标签的唯一标示, -->
+    <!-- id取得是ItemsDao中方法名,  parameterType: 方法参数类型  resultType:返回值类型是类名.(大小写都可)-->
+    <select id="findById" parameterType="int" resultType="items" >
+        select * from items where id = #{id}
+    </select>
+</mapper>
