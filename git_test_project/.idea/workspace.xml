@@ -26,8 +26,8 @@
       <file leaf-file-name="FirstClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/git/FirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
@@ -92,8 +92,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="741" />
-    <option name="y" value="132" />
+    <option name="x" value="812" />
+    <option name="y" value="134" />
     <option name="width" value="1456" />
     <option name="height" value="663" />
   </component>
@@ -348,7 +348,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568501648409</updated>
       <workItem from="1568501657131" duration="3380000" />
-      <workItem from="1568552144445" duration="148000" />
+      <workItem from="1568552144445" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="好的">
       <created>1568503168354</created>
@@ -373,10 +373,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3528000" />
+    <option name="totallyTimeSpent" value="4167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="741" y="132" width="1456" height="663" extended-state="0" />
+    <frame x="812" y="134" width="1456" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -454,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/git/FirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#120#121#0" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
